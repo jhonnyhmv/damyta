@@ -18,43 +18,12 @@ Aqui vemos algunas fotitos de ella y de algunos momentos que pasamos:
 
 
 ```{r echo=FALSE, out.width = "400px", out.height="450px",fig.align='center', warning = FALSE, message = FALSE}
-knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20181009-WA0002.jpg")
+knitr::include_graphics("H:\\01 R\\04 GIHHUB\\damyta\\IMG-20181009-WA0002.jpg")
 
 ```
 
 Esta es la primera foto que me permitio tomarle, fue cuando fuimos por unos silpanchos a SILPICH.
 
-```{r echo=FALSE, out.width = "300px", out.height="550px",fig.align='center', warning = FALSE, message = FALSE}
-knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0005.jpg")
-
-```
-
-```{r echo=FALSE, out.width = "300px", out.height="450px",fig.align='center', warning = FALSE, message = FALSE}
-knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0011.jpg")
-#file.choose()
-```
-
-```{r echo=FALSE, out.width = "300px", out.height="550px",fig.align='center', warning = FALSE, message = FALSE}
-knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0015.jpg")
-#file.choose()
-```
-
-Tan hermosa **DAMYTA**
-
-```{r echo=FALSE, out.width = "300px", out.height="550px",fig.align='center', warning = FALSE, message = FALSE}
-knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210413-WA0003.jpg")
-#file.choose()
-```
-
-Su tierna y linda sobrinita.
-
-
-```{r echo=FALSE, out.width = "600px", out.height="350px",fig.align='center', warning = FALSE, message = FALSE}
-knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0010.jpg")
-#file.choose()
-```
-
-Ella en la iglesia.
 
 Espero hacer bien las "cosas", no fallarla, no fallarme, no fallar a Dios.
 
