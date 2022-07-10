@@ -1,0 +1,71 @@
+---
+title: 'MI PRIMERA PAGINA: DAMYTA'
+author: "JHONNY"
+date: "10/7/2022"
+output: html_document
+---
+
+ 
+Esta es la primera pagina web que creo con Rstudio y publicada a traves de GITHUB. La misma esta dedicada a Damyta, la mujer que amo mucho, y como ella diria de acuerdo a su definicion de amor, a la **decidi** amarla, de estar a su lado, tratar de no hacerla renegar mucho, pero sobre todo de hacerla feliz todo con la bendicion de **DIOS**.
+
+Se que lo mas importante para ella es que seamos guiados por la mano de Dios, lo tengo muy presente, pero aun no vamos a la iglesia, pero **LO HAREMOS**. No podriamos casarnos, claro despues de que me acepte, de otra forma que no sea bajo la mano de Dios.
+
+Ella (Damyta) es una persona espectacular realmente sorprendente, llena de un muy buen corazon y justo, de fuertes principios y valores, de una inteligencia muy alta, al mismo tiempo de ser una hermosa mujer. Siempre pido que no cambie, que continue creciendo y aprendiendo mas cosas, siendo mas independiente como lo es ahora, al tiemppo de ser aun mas luchadora, es una mujer fuerte, que a pesar de probablemente derramar estres y ciertas lagrimas logra salir adelante con cualquier reto u oprtunidad que se le presente.
+
+Asimismo, tiene una bella familia, a la que espero agradar, unos padres de igual forma lleno de principios y valores muy fuertes, luchadores, buenos entre otras cualdiades. De la misma forma, tiene un hermano y hermanas valorables que por todo lo que me cuenta ella la apoyan, se apoyan, entre todos, lo que demuestra la fortaleza de la familia.
+
+Aqui vemos algunas fotitos de ella y de algunos momentos que pasamos:
+
+
+```{r echo=FALSE, out.width = "400px", out.height="450px",fig.align='center', warning = FALSE, message = FALSE}
+knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20181009-WA0002.jpg")
+
+```
+
+Esta es la primera foto que me permitio tomarle, fue cuando fuimos por unos silpanchos a SILPICH.
+
+```{r echo=FALSE, out.width = "300px", out.height="550px",fig.align='center', warning = FALSE, message = FALSE}
+knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0005.jpg")
+
+```
+
+```{r echo=FALSE, out.width = "300px", out.height="450px",fig.align='center', warning = FALSE, message = FALSE}
+knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0011.jpg")
+#file.choose()
+```
+
+```{r echo=FALSE, out.width = "300px", out.height="550px",fig.align='center', warning = FALSE, message = FALSE}
+knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0015.jpg")
+#file.choose()
+```
+
+Tan hermosa **DAMYTA**
+
+```{r echo=FALSE, out.width = "300px", out.height="550px",fig.align='center', warning = FALSE, message = FALSE}
+knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210413-WA0003.jpg")
+#file.choose()
+```
+
+Su tierna y linda sobrinita.
+
+
+```{r echo=FALSE, out.width = "600px", out.height="350px",fig.align='center', warning = FALSE, message = FALSE}
+knitr::include_graphics("C:\\Users\\hp\\Desktop\\DAMY\\IMG-20210406-WA0010.jpg")
+#file.choose()
+```
+
+Ella en la iglesia.
+
+Espero hacer bien las "cosas", no fallarla, no fallarme, no fallar a Dios.
+
+
+
+
+
+
+
+
+
+
+
+
