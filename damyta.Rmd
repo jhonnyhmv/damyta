@@ -4,7 +4,7 @@ author: "JHONNY"
 date: "10/7/2022"
 output: html_document
 ---
-
+ 
  
 Esta es la primera pagina web que creo con Rstudio y publicada a traves de GITHUB. La misma esta dedicada a Damyta, la mujer que amo mucho, y como ella diria de acuerdo a su definicion de amor, a la **decidi** amarla, de estar a su lado, tratar de no hacerla renegar mucho, pero sobre todo de hacerla feliz todo con la bendicion de **DIOS**.
 
